@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kubeflow-303507",
+  "private_key_id": "889ba25968d86033ec6c89d64f714fc67777f3db",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9AvoXmsUM69uu\nI+eQ+d/84Y2yKlEKCHqbMC32Pq7TtnfmAUM3aNOUg4OhAGl97giEZJyp5AD7we7q\ngQzM4dbm4XRloVM2aby0jleU02DZFD9bVWodfqnf643IiHrPUF4crVP27kuKaPLe\n+tJm5lIi/KZmjja4vi3CQj6qVfs161JiGaaNSStutjidvi3Z0RvGbQnOTZijKhl7\nZaSFFk/CTyr9RMCO8bBrTmxdXJb3Yo0kYEnBKATymrSVjVbiBzvSdywRT8xVRdxI\nTvKop+NiwBJGPLrC2txmdz18JLPMfnqwbtRLlApLU0/VQZR5JdNW1MWjLuAmP61a\n5avExAZ7AgMBAAECggEAHRpXPckz7CBo6/BVWIpRBdQJCFThs4TItBqACTlvm+Ot\npHmvStnWMjjpzKGOnLhJEXGYecRErn8W9X63ZNilSVmPnZJwiKFRUA/WxnChqesn\nMj39n9r/9x2C8EyrdD5wr0O0+QGKGh68vr6qJPPz07VJPeNJ47pMu2uN0JZ6nruA\nWt/Lux9TbtYXJFjVTouhltQTyZ8M9VPUS+UCdjmmB7iKINXNhkyJkJDbKVEtY1tX\nAing09Id8tjh8ki7sJpf2pKxN4vbPBOQ3yK8bseEvH3vWXdEB+TLXT3hKRH6MiB+\nDRT2AwxlF7osk9h1eUM8/L/DvlE4yMULuPLFx9/I6QKBgQDm6QYi6xrO+c0a/zme\n4z3XuQHqM0EIvQUXQbHXqqXBXFYr7W8rUEvam+F0yfi/z70JgTH99H9thhileUMD\nMVexIn29bc69m6dA8SWrn5MmwXeuRI+FHxn14X4xrDu2VKOdvR6vzC54/ZmlZzv8\nLoFhqZaXTBpjOs1zC/O/jD+iZQKBgQDRjIFSZONHn99mXec6Una/XDK2VNTWNnF7\nF0tFMtKtd1YHX5i9GNigr0Wz3HHNC13pyUNGzzJnC7qjL5q47g1R4yFK3LWtvZUL\nQFbGehoNIEN/mRbigD28R2VPugNXhqcuf2axf8RX1uOx1knA8KPUL3gPlzbPUaMt\nf0K69n4HXwKBgQCT7LQBqpuB/IVoxhgjsW/swph3cF45Ot4ICA3mG2wUcxLBEVom\nZUoywamtJ7YzKuHvNNTR28/GWiFv4D8NzI5g67ehorbOwOhkshdv2spqCYaiHUnT\n/hija9FsAOo/4/jtFDqUZDlhSRUk4P2MkD5SUlImmppM916mVQHRtAcQAQKBgQCi\nzk1znJrQ/S9usyqBr6w/BP0JmGM8g1Qr1G9QtinlSEB4vhdHY9R7E3JOScnJCznN\n9+bjTvvT/9LkEopdf+atZpBpP42QDSmNclF5J0iyRgzrSB/1nrlYXQgjp1wNVrrx\nb150LdZ4gKardtgapVxD8RWQ12VoMf9by/ImnHhSdQKBgAsVgmivFHx3cmxs2mE6\nL8IEFcH5r2/i1nz28qAMb/WBvcua2LK1OrRVsrtnWx6XecxHxwsQFAecWhVt3jzH\n278z8jSgVZ+6ZJJ0z3TWGFDeG0DEZd75QR14G/3Jnk0QOEnkXhn2KNJhSjSOynYx\n9fI5Q4G/kbKgh4EBqVCytqw8\n-----END PRIVATE KEY-----\n",
+  "client_email": "kube-348@kubeflow-303507.iam.gserviceaccount.com",
+  "client_id": "116529237458249360935",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kube-348%40kubeflow-303507.iam.gserviceaccount.com"
+}
